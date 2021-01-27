@@ -1,0 +1,6 @@
+framework module JWBaseLib {
+  umbrella header "JWBaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
